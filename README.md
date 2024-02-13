@@ -1,4 +1,4 @@
-![image](https://github.com/someetshende/lizmotors-assignment/assets/105969740/96b1e530-87f2-4c98-85f4-12ff644ce4b9)# lizmotors-assignment
+# lizmotors-assignment
 # Web Scraping and Data Analysis Project
 
 This project involves web scraping data and analyzing it to generate insights from website's data scrapped using LangChain, Faiss, and OpenAI's GPT-3.5.
@@ -6,6 +6,9 @@ This project involves web scraping data and analyzing it to generate insights fr
 Output / Final Result : 
 
 ![image](https://github.com/someetshende/lizmotors-assignment/assets/105969740/c9ae4947-3b1e-4e2a-886e-6bbd4f8a19aa)
+
+![image](https://github.com/someetshende/lizmotors-assignment/assets/105969740/4dc61a15-2785-4443-a496-13414b9ef50c)
+
 
 
 ## Table of Contents
