@@ -43,7 +43,7 @@ The project supports loading data from various URLs. Update the urls list in the
 Text processing involves cleaning and tokenization. Customize the text_splitter according to your specific requirements.
 
 ## Vectorization and Embeddings
-Vectorization and embeddings are handled using LangChain's Chroma and OpenAI's GPT-3.5 embeddings. The vectorDB component manages the persistence and retrieval of vectorized data.
+Vectorization and embeddings are handled using LangChain's Chroma and OpenAI's GPT-3.5 embeddings. The vectorDB component manages the persistence and retrieval of vectorized data from ChromaDB.
 
 ## Question-Answering
 The project utilizes OpenAI's GPT-3.5 for question-answering. The RetrievalQAWithSourcesChain combines LangChain's retriever with the language model for effective QA.
@@ -52,9 +52,11 @@ The project utilizes OpenAI's GPT-3.5 for question-answering. The RetrievalQAWit
 Data and models can be persisted using Chroma and other storage mechanisms. Update the persist_directory as needed.
 
 ## Tech Stacks Used
-  1.LangChain
-  2.Faiss
-  3.OpenAI GPT-3.5
-  4.Unstructured
-  5.ChromaDB
+1.LangChain
+2.Faiss
+3.OpenAI GPT-3.5
+4.Unstructured
+5.ChromaDB
 
+## License
+[Code By Someet Shende.]
