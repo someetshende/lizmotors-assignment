@@ -52,9 +52,9 @@ The project utilizes OpenAI's GPT-3.5 for question-answering. The RetrievalQAWit
 Data and models can be persisted using Chroma and other storage mechanisms. Update the persist_directory as needed.
 
 ## Tech Stacks Used
-1.LangChain
-2.Faiss
-3.OpenAI GPT-3.5
-4.Unstructured
-5.ChromaDB
+  1.LangChain
+  2.Faiss
+  3.OpenAI GPT-3.5
+  4.Unstructured
+  5.ChromaDB
 
